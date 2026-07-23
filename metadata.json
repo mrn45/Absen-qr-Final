@@ -1,0 +1,10 @@
+{
+  "name": "AbsenQR",
+  "description": "Aplikasi absen siswa berbasis QR code dengan manajemen KBM dan Sholat.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
